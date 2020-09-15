@@ -1,6 +1,6 @@
 # ToDoList
 
-React
+React,
 Redux
 Side effects
 Style components
